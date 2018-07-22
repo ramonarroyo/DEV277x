@@ -25,7 +25,7 @@ public class Battleship {
         playerShips(map, input);
         computerShips(map, num);
         printMap(map, playerShips, computerShips);
-        while (playerShips > 0 || computerShips > 0) {
+        while (playerShips > 0 && computerShips > 0) {
             int[] ships = battleTurns(map, input, playerShips, computerShips, num);
             playerShips = ships[0];
             computerShips = ships[1];
