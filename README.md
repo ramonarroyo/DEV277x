@@ -6,4 +6,8 @@ The classic game Battleship recreated in Java. The player and the computer place
 
 ## Module Project - Fraction Calculator
 
-A calculator for adding, subtracting, multiplying, and dividing fractions. It is designed in an object oriented programming model.
+A calculator for adding, subtracting, multiplying, and dividing fractions. It is designed in an object oriented programming model using encapsulation and abstraction.
+
+## Module Project - Company Structure
+
+This project is a collection of classes using inheritance, super classes, abstract classes, and polymorphism to create the structure of many possible roles for employees in a company.
