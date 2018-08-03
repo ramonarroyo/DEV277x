@@ -11,3 +11,7 @@ A calculator for adding, subtracting, multiplying, and dividing fractions. It is
 ## Module Project - Company Structure
 
 This project is a collection of classes using inheritance, super classes, abstract classes, and polymorphism to create the structure of many possible roles for employees in a company.
+
+## Module Project - Animal Kingdom
+
+This project is a simulation world with multiple animals classes with different behaviors developed using all the OOP concepts learned so far.
